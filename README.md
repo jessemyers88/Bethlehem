@@ -1,1 +1,2 @@
-# Bethlehem  well Hello
+# Bethlehem
+New line of text
